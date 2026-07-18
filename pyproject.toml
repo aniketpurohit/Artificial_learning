@@ -1,0 +1,12 @@
+[project]
+name = "artificial-learning"
+version = "0.1.0"
+description = "This is project for learning and displaying the ML concepts"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi>=0.139.2",
+    "numpy>=2.5.1",
+    "pydantic>=2.13.4",
+    "uvicorn>=0.51.0",
+]
